@@ -1,2 +1,4 @@
 modificacion 0_main dev
 cambios main
+
+quitar cambios con revert
